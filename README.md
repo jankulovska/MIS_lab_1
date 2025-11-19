@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-LINK FOR THE VIDEO -> https://drive.google.com/file/d/1-gm8xpvkNCMnpWfvIIhxP_sDEY4S-E-x/view?usp=sharing
+Video link: https://drive.google.com/file/d/1-gm8xpvkNCMnpWfvIIhxP_sDEY4S-E-x/view?usp=sharing
 
 ## Getting Started
 
